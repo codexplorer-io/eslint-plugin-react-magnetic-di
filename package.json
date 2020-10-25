@@ -1,0 +1,7 @@
+{
+    "name": "eslint-plugin-react-magnetic-di",
+    "version": "1.0.0",
+    "peerDependencies": {
+        "react-magnetic-di": "*"
+    }
+}
